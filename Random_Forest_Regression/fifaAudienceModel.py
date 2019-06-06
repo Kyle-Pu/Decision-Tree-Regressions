@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-filePath = "fifa_countries_audience.csv"
+filePath = "../fifa_countries_audience.csv"
 fifaData = pd.read_csv(filePath)      # Reading in our data!
 print("\nAll data has been loaded!")
 
