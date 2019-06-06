@@ -1,4 +1,4 @@
-# Random Forest Regression Model for FIFA Audience Stats
+# Random Forest Regression Machine Learning Model for FIFA Audience Stats
 A simple Random Forest Regression machine learning model for country's share of global world cup TV Audience by percentage.
 
 ## Results
